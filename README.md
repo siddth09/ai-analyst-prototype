@@ -62,8 +62,12 @@ print("Your public Streamlit URL:", public_url)
 ---
 ## 🎬 Demo
 
-[Click to view demo](demo/ai-analyst-demo.webm)
+<video width="600" controls>
+  <source src="demo/ai-analyst-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
+
 ## 📝 Sample File
 
 * `sample_pitch.pdf` is included for testing the upload functionality.
