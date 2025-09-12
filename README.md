@@ -28,41 +28,7 @@ This is a **Streamlit-based prototype** that evaluates startups by extracting in
 
 ## 📥 Getting Started
 
-### Option 1: Run locally (Mac/Linux/Windows)
-
-1. Clone the repo:
-
-```bash
-git clone https://github.com/siddth09/ai-analyst-prototype.git
-cd ai-analyst-prototype
-````
-
-2. Create a virtual environment and activate it:
-
-```bash
-python3 -m venv venv
-source venv/bin/activate      # Linux/Mac
-venv\Scripts\activate         # Windows
-```
-
-3. Install dependencies:
-
-```bash
-pip install --upgrade pip
-pip install -r requirements.txt
-```
-
-4. Run the Streamlit app:
-
-```bash
-streamlit run app.py
-```
-
-5. Open [http://localhost:8501](http://localhost:8501) in your browser to test the prototype.
-
----
-
-### Option 2: Run in Google Colab
+## Run in Google Colab
 
 1. Open a new Colab notebook and clone the repo:
 
