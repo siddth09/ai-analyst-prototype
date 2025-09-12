@@ -60,7 +60,14 @@ print("Your public Streamlit URL:", public_url)
 > You can now open the printed `public_url` in any browser to test your app.
 
 ---
+## 🎬 Demo
 
+<video width="600" controls autoplay loop muted>
+  <source src="demo/ai-analyst-demo.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
+---
 ## 📝 Sample File
 
 * `sample_pitch.pdf` is included for testing the upload functionality.
