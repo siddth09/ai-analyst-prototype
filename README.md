@@ -67,7 +67,7 @@ print("Your public Streamlit URL:", public_url)
   Your browser does not support the video tag.
 </video>
 
-[Click to view demo](demo/ai-analyst-demo.mp4)
+[Click to view demo](demo/ai-analyst-demo.gif)
 
 ---
 
