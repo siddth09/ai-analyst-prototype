@@ -62,11 +62,7 @@ print("Your public Streamlit URL:", public_url)
 ---
 ## 🎬 Demo
 
-<video width="600" controls autoplay loop muted>
-  <source src="demo/ai-analyst-demo.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
-
+[Click to view demo](demo/ai-analyst-demo.webm)
 ---
 ## 📝 Sample File
 
